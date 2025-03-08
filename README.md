@@ -39,4 +39,4 @@ Make sure to research and follow the applicable laws and regulations in your reg
 
 ## 📬 Contact
 
-For more information or support, feel free to contact us via [Telegram](https://t.me/witchshophub).
+For more information or support, feel free to contact us via [Telegram](https://t.me/witchshophub) ![Telegram](https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg).
