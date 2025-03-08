@@ -38,5 +38,7 @@ When sending emails from a custom domain, it is essential to comply with relevan
 Make sure to research and follow the applicable laws and regulations in your region to avoid legal issues.
 
 ## 📬 Contact
-
-For more information or support, feel free to contact us via [Telegram](https://t.me/witchshophub) ![Telegram](https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg).
+For more information or support, feel free to contact us via [Telegram](https://t.me/witchshophub)  
+<a href="https://t.me/witchshophub">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="20" height="20">
+</a>
