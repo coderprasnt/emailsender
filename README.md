@@ -21,7 +21,7 @@ This tool allows you to send emails from a custom domain using SMTP.
 1. Configure your SMTP server settings in the `send_email.py` script.
 2. Run the script with the desired email parameters.
 
-### Note
+### ⚠️ Note
 
 ```
 You dont need to purchase anything extra after this tool.
